@@ -82,6 +82,7 @@ For one test-set car:
 - **Predicted price:** ~ \$3,062  
 
 ![Model Result](https://raw.githubusercontent.com/mdemrannazirefty/ML-Car-Price-Prediction/main/Result.png)
+
 A bar chart comparison is included in the PDF report.
 
 ---

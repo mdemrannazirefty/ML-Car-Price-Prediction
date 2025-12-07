@@ -82,6 +82,7 @@ For one test-set car:
 - **Predicted price:** ~ \$3,062  
 
 A bar chart comparison is included in the PDF report.
+<img src="result.png" alt="Model Result" width="600">
 
 ---
 

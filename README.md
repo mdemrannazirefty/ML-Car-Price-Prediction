@@ -81,8 +81,8 @@ For one test-set car:
 - **Actual price:** ~ \$2,000  
 - **Predicted price:** ~ \$3,062  
 
+![Model Result](https://raw.githubusercontent.com/mdemrannazirefty/ML-Car-Price-Prediction/main/Result.png)
 A bar chart comparison is included in the PDF report.
-<img src="[result.png](https://github.com/mdemrannazirefty/ML-Car-Price-Prediction/blob/main/Result.png)" alt="Model Result" width="600">
 
 ---
 

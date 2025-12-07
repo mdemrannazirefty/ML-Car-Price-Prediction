@@ -82,7 +82,7 @@ For one test-set car:
 - **Predicted price:** ~ \$3,062  
 
 A bar chart comparison is included in the PDF report.
-<img src="result.png" alt="Model Result" width="600">
+<img src="[result.png](https://github.com/mdemrannazirefty/ML-Car-Price-Prediction/blob/main/Result.png)" alt="Model Result" width="600">
 
 ---
 
@@ -97,7 +97,7 @@ cd car-price-prediction
 pip install -r requirements.txt
 
 # Open notebook
-jupyter notebook CarPricePrediction.ipynb
+Jupyter Notebook CarPricePrediction.ipynb
 ```
 
 Contact

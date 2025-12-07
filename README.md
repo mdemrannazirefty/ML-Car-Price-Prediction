@@ -13,7 +13,6 @@ Final model achieves a 0.44 RMSE on unseen test data and provides stable, interp
   (Google Drive link: https://drive.google.com/file/d/1q3zxaJxjHT1I2y85I1_QJLXwrh-d9Au3/view?usp=drive_link)
 - `CarPricePrediction.ipynb` – complete notebook with preprocessing, modeling, and evaluation  
 - `data/data.csv` – dataset used in the project  
-- `requirements.txt` – Python dependencies  
 - `.gitignore` – excludes environment and cache files  
 
 ---
